@@ -22,3 +22,5 @@ mod p28;
 mod p35;
 #[path = "58.length-of-last-word.rs"]
 mod p58;
+#[path = "66.plus-one.rs"]
+mod p66;

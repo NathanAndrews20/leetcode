@@ -12,3 +12,5 @@ mod p14;
 mod p20;
 #[path = "21.merge-two-sorted-lists.rs"]
 mod p21;
+#[path = "26.remove-duplicates-from-sorted-array.rs"]
+mod p26;

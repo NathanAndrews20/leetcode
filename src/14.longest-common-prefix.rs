@@ -4,6 +4,7 @@
  * [14] Longest Common Prefix
  */
 
+use crate::util::solution::Solution;
 // @lc code=start
 
 use std::{cmp::min, collections::HashMap, iter::FromIterator};

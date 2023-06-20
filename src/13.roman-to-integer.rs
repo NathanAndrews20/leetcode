@@ -4,6 +4,7 @@
  * [13] Roman to Integer
  */
 
+use crate::util::solution::Solution;
 // @lc code=start
 
 impl Solution {

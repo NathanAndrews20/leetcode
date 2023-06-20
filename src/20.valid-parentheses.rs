@@ -4,6 +4,8 @@
  * [20] Valid Parentheses
  */
 
+use crate::util::solution::Solution;
+
 // @lc code=start
 impl Solution {
     pub fn is_valid(s: String) -> bool {

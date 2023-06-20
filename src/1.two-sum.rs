@@ -4,6 +4,8 @@
  * [1] Two Sum
  */
 
+use crate::util::solution::Solution;
+
 // @lc code=start
 use std::collections::HashMap;
 

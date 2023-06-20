@@ -20,3 +20,5 @@ mod p27;
 mod p28;
 #[path = "35.search-insert-position.rs"]
 mod p35;
+#[path = "58.length-of-last-word.rs"]
+mod p58;

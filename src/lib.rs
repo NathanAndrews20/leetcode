@@ -1,3 +1,5 @@
+mod util;
+
 #[path = "1.two-sum.rs"]
 mod p1;
 #[path = "9.palindrome-number.rs"]
@@ -8,3 +10,5 @@ mod p13;
 mod p14;
 #[path = "20.valid-parentheses.rs"]
 mod p20;
+#[path = "21.merge-two-sorted-lists.rs"]
+mod p21;

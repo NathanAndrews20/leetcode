@@ -6,3 +6,5 @@ mod p9;
 mod p13;
 #[path = "14.longest-common-prefix.rs"]
 mod p14;
+#[path = "20.valid-parentheses.rs"]
+mod p20;

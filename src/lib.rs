@@ -16,3 +16,5 @@ mod p21;
 mod p26;
 #[path = "27.remove-element.rs"]
 mod p27;
+#[path = "28.find-the-index-of-the-first-occurrence-in-a-string.rs"]
+mod p28;

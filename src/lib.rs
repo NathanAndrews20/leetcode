@@ -14,3 +14,5 @@ mod p20;
 mod p21;
 #[path = "26.remove-duplicates-from-sorted-array.rs"]
 mod p26;
+#[path = "27.remove-element.rs"]
+mod p27;

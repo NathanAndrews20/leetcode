@@ -18,3 +18,5 @@ mod p26;
 mod p27;
 #[path = "28.find-the-index-of-the-first-occurrence-in-a-string.rs"]
 mod p28;
+#[path = "35.search-insert-position.rs"]
+mod p35;

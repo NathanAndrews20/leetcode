@@ -24,3 +24,5 @@ mod p35;
 mod p58;
 #[path = "66.plus-one.rs"]
 mod p66;
+#[path = "67.add-binary.rs"]
+mod p67;

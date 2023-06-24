@@ -30,3 +30,5 @@ mod p67;
 mod p70;
 #[path = "83.remove-duplicates-from-sorted-list.rs"]
 mod p83;
+#[path = "88.merge-sorted-array.rs"]
+mod p88;

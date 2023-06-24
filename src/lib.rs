@@ -28,3 +28,5 @@ mod p66;
 mod p67;
 #[path = "70.climbing-stairs.rs"]
 mod p70;
+#[path = "83.remove-duplicates-from-sorted-list.rs"]
+mod p83;

@@ -32,3 +32,5 @@ mod p70;
 mod p83;
 #[path = "88.merge-sorted-array.rs"]
 mod p88;
+#[path = "94.binary-tree-inorder-traversal.rs"]
+mod p94;

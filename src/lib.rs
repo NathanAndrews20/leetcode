@@ -26,3 +26,5 @@ mod p58;
 mod p66;
 #[path = "67.add-binary.rs"]
 mod p67;
+#[path = "70.climbing-stairs.rs"]
+mod p70;

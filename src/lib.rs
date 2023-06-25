@@ -52,3 +52,5 @@ mod p112;
 mod p118;
 #[path = "119.pascals-triangle-ii.rs"]
 mod p119;
+#[path = "125.valid-palindrome.rs"]
+mod p125;

@@ -54,3 +54,5 @@ mod p118;
 mod p119;
 #[path = "125.valid-palindrome.rs"]
 mod p125;
+#[path = "136.single-number.rs"]
+mod p136;

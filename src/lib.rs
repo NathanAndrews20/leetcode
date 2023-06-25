@@ -36,3 +36,5 @@ mod p88;
 mod p94;
 #[path = "100.same-tree.rs"]
 mod p100;
+#[path = "101.symmetric-tree.rs"]
+mod p101;

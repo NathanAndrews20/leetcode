@@ -8,7 +8,7 @@ use crate::util::solution::Solution;
 
 // @lc code=start
 impl Solution {
-    pub fn is_palindrome(s: String) -> bool {
+    pub fn is_palindrome_p125(s: String) -> bool {
         let chars: Vec<char> = s.chars().collect();
         let mut left = 0;
         let mut right = chars.len() - 1;

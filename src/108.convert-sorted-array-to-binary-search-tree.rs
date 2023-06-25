@@ -44,13 +44,10 @@ fn sorted_array_to_bst_helper(nums: &[i32]) -> Option<Rc<RefCell<TreeNode>>> {
         return Some(Rc::new(RefCell::new(TreeNode::new(nums[0]))));
     }
 
-    let middle_index = (nums.len() / 2);
-    let mut node = TreeNode::new(nums[middle_index]);
+    let middle_index = nums.len() / 2;
     let (left_nums, right_nums) = nums.split_at(middle_index);
-    let right_nums = match right_nums.split_first() {
-        Some((_, right_nums)) => right_nums,
-        None => &[],
-    };
+    let (middle_element, right_nums) = right_nums.split_first()?;
+    let mut node = TreeNode::new(*middle_element);
 
     let left = sorted_array_to_bst_helper(left_nums);
     let right = sorted_array_to_bst_helper(right_nums);

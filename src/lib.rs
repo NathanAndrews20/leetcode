@@ -34,3 +34,5 @@ mod p83;
 mod p88;
 #[path = "94.binary-tree-inorder-traversal.rs"]
 mod p94;
+#[path = "100.same-tree.rs"]
+mod p100;

@@ -48,3 +48,5 @@ mod p110;
 mod p111;
 #[path = "112.path-sum.rs"]
 mod p112;
+#[path = "118.pascals-triangle.rs"]
+mod p118;

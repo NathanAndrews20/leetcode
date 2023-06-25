@@ -7,7 +7,6 @@
 use crate::util::solution::Solution;
 use crate::util::tree_node::TreeNode;
 
-use std::borrow::Borrow;
 // @lc code=start
 // Definition for a binary tree node.
 // #[derive(Debug, PartialEq, Eq)]

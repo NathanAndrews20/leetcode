@@ -44,3 +44,5 @@ mod p104;
 mod p108;
 #[path = "110.balanced-binary-tree.rs"]
 mod p110;
+#[path = "111.minimum-depth-of-binary-tree.rs"]
+mod p111;

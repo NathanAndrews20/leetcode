@@ -38,3 +38,5 @@ mod p94;
 mod p100;
 #[path = "101.symmetric-tree.rs"]
 mod p101;
+#[path = "104.maximum-depth-of-binary-tree.rs"]
+mod p104;

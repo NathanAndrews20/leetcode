@@ -46,3 +46,5 @@ mod p108;
 mod p110;
 #[path = "111.minimum-depth-of-binary-tree.rs"]
 mod p111;
+#[path = "112.path-sum.rs"]
+mod p112;

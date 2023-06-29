@@ -62,3 +62,5 @@ mod p9;
 mod p94;
 #[path = "169.majority-element.rs"]
 mod p169;
+#[path = "190.reverse-bits.rs"]
+mod p190;

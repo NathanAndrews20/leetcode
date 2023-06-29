@@ -60,3 +60,5 @@ mod p88;
 mod p9;
 #[path = "94.binary-tree-inorder-traversal.rs"]
 mod p94;
+#[path = "169.majority-element.rs"]
+mod p169;

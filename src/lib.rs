@@ -68,3 +68,5 @@ mod p190;
 mod p191;
 #[path = "202.happy-number.rs"]
 mod p202;
+#[path = "203.remove-linked-list-elements.rs"]
+mod p203;

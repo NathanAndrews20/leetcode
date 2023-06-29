@@ -64,3 +64,5 @@ mod p94;
 mod p169;
 #[path = "190.reverse-bits.rs"]
 mod p190;
+#[path = "191.number-of-1-bits.rs"]
+mod p191;

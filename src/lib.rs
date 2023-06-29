@@ -66,3 +66,5 @@ mod p169;
 mod p190;
 #[path = "191.number-of-1-bits.rs"]
 mod p191;
+#[path = "202.happy-number.rs"]
+mod p202;

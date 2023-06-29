@@ -2,12 +2,36 @@ mod util;
 
 #[path = "1.two-sum.rs"]
 mod p1;
-#[path = "9.palindrome-number.rs"]
-mod p9;
+#[path = "100.same-tree.rs"]
+mod p100;
+#[path = "101.symmetric-tree.rs"]
+mod p101;
+#[path = "104.maximum-depth-of-binary-tree.rs"]
+mod p104;
+#[path = "108.convert-sorted-array-to-binary-search-tree.rs"]
+mod p108;
+#[path = "110.balanced-binary-tree.rs"]
+mod p110;
+#[path = "111.minimum-depth-of-binary-tree.rs"]
+mod p111;
+#[path = "112.path-sum.rs"]
+mod p112;
+#[path = "118.pascals-triangle.rs"]
+mod p118;
+#[path = "119.pascals-triangle-ii.rs"]
+mod p119;
+#[path = "125.valid-palindrome.rs"]
+mod p125;
 #[path = "13.roman-to-integer.rs"]
 mod p13;
+#[path = "136.single-number.rs"]
+mod p136;
 #[path = "14.longest-common-prefix.rs"]
 mod p14;
+#[path = "144.binary-tree-preorder-traversal.rs"]
+mod p144;
+#[path = "145.binary-tree-postorder-traversal.rs"]
+mod p145;
 #[path = "20.valid-parentheses.rs"]
 mod p20;
 #[path = "21.merge-two-sorted-lists.rs"]
@@ -32,29 +56,7 @@ mod p70;
 mod p83;
 #[path = "88.merge-sorted-array.rs"]
 mod p88;
+#[path = "9.palindrome-number.rs"]
+mod p9;
 #[path = "94.binary-tree-inorder-traversal.rs"]
 mod p94;
-#[path = "100.same-tree.rs"]
-mod p100;
-#[path = "101.symmetric-tree.rs"]
-mod p101;
-#[path = "104.maximum-depth-of-binary-tree.rs"]
-mod p104;
-#[path = "108.convert-sorted-array-to-binary-search-tree.rs"]
-mod p108;
-#[path = "110.balanced-binary-tree.rs"]
-mod p110;
-#[path = "111.minimum-depth-of-binary-tree.rs"]
-mod p111;
-#[path = "112.path-sum.rs"]
-mod p112;
-#[path = "118.pascals-triangle.rs"]
-mod p118;
-#[path = "119.pascals-triangle-ii.rs"]
-mod p119;
-#[path = "125.valid-palindrome.rs"]
-mod p125;
-#[path = "136.single-number.rs"]
-mod p136;
-#[path = "144.binary-tree-preorder-traversal.rs"]
-mod p144;

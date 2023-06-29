@@ -4,6 +4,8 @@
  * [191] Number of 1 Bits
  */
 
+use crate::util::solution::Solution;
+
 // @lc code=start
 impl Solution {
     pub fn hammingWeight(n: u32) -> i32 {

@@ -70,3 +70,5 @@ mod p191;
 mod p202;
 #[path = "203.remove-linked-list-elements.rs"]
 mod p203;
+#[path = "205.isomorphic-strings.rs"]
+mod p205;

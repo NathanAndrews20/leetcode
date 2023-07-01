@@ -32,8 +32,22 @@ mod p14;
 mod p144;
 #[path = "145.binary-tree-postorder-traversal.rs"]
 mod p145;
+#[path = "169.majority-element.rs"]
+mod p169;
+#[path = "190.reverse-bits.rs"]
+mod p190;
+#[path = "191.number-of-1-bits.rs"]
+mod p191;
+#[path = "2.add-two-numbers.rs"]
+mod p2;
 #[path = "20.valid-parentheses.rs"]
 mod p20;
+#[path = "202.happy-number.rs"]
+mod p202;
+#[path = "203.remove-linked-list-elements.rs"]
+mod p203;
+#[path = "205.isomorphic-strings.rs"]
+mod p205;
 #[path = "21.merge-two-sorted-lists.rs"]
 mod p21;
 #[path = "26.remove-duplicates-from-sorted-array.rs"]
@@ -60,15 +74,3 @@ mod p88;
 mod p9;
 #[path = "94.binary-tree-inorder-traversal.rs"]
 mod p94;
-#[path = "169.majority-element.rs"]
-mod p169;
-#[path = "190.reverse-bits.rs"]
-mod p190;
-#[path = "191.number-of-1-bits.rs"]
-mod p191;
-#[path = "202.happy-number.rs"]
-mod p202;
-#[path = "203.remove-linked-list-elements.rs"]
-mod p203;
-#[path = "205.isomorphic-strings.rs"]
-mod p205;
